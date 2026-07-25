@@ -103,4 +103,4 @@ This project is open-source and available for learning and personal use.
 
 ---
 
-### ❤️ Designed & Developed by Krishna Yadav
+###  Designed & Developed by Krishna Yadav
