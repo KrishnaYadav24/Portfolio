@@ -6,7 +6,6 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 👉 **Portfolio:** https://krishnayadav24.github.io/Portfolio/
 
-> *(Update this link after enabling GitHub Pages.)*
 
 ---
 
