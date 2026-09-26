@@ -84,17 +84,6 @@ https://github.com/KrishnaYadav24
 - Resume Download
 - Contact Form with EmailJS
 
----
-
-## 📸 Preview
-
-*(Add a screenshot of your portfolio here after deployment.)*
-
-```text
-images/portfolio-preview.png
-```
-
----
 
 ## 📄 License
 
