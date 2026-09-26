@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🚀 Live Demo
 
-👉 **Portfolio:** https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+👉 **Portfolio:** https://krishnayadav24.github.io/Portfolio/
 
 > *(Update this link after enabling GitHub Pages.)*
 
